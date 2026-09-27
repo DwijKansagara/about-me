@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
   <title id="title">Dwij Kansagara</title>
-  <desc id="description">10th-standard 10th-standard student developer in Rajkot building web interfaces, local AI tools and robotics.</desc>
+  <desc id="description">10th-standard student developer in Rajkot building web interfaces, local AI tools and robotics.</desc>
   <rect width="1200" height="360" fill="#10120f"/>
   <g fill="#2d3329">
     <circle cx="52" cy="48" r="2"/><circle cx="104" cy="48" r="2"/><circle cx="156" cy="48" r="2"/><circle cx="208" cy="48" r="2"/><circle cx="260" cy="48" r="2"/>
@@ -17,4 +17,5 @@
   </rect>
   <rect x="1178" width="22" height="360" fill="#d3f36b"/>
 </svg>
+
 
