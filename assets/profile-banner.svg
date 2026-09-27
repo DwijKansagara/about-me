@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+  <title id="title">Dwij Kansagara</title>
+  <desc id="description">Student developer in Rajkot building web interfaces, local AI tools and robotics.</desc>
+  <rect width="1200" height="360" fill="#10120f"/>
+  <g fill="#2d3329">
+    <circle cx="52" cy="48" r="2"/><circle cx="104" cy="48" r="2"/><circle cx="156" cy="48" r="2"/><circle cx="208" cy="48" r="2"/><circle cx="260" cy="48" r="2"/>
+    <circle cx="52" cy="100" r="2"/><circle cx="104" cy="100" r="2"/><circle cx="156" cy="100" r="2"/><circle cx="208" cy="100" r="2"/><circle cx="260" cy="100" r="2"/>
+    <circle cx="940" cy="260" r="2"/><circle cx="992" cy="260" r="2"/><circle cx="1044" cy="260" r="2"/><circle cx="1096" cy="260" r="2"/><circle cx="1148" cy="260" r="2"/>
+    <circle cx="940" cy="312" r="2"/><circle cx="992" cy="312" r="2"/><circle cx="1044" cy="312" r="2"/><circle cx="1096" cy="312" r="2"/><circle cx="1148" cy="312" r="2"/>
+  </g>
+  <rect x="70" y="72" width="92" height="92" fill="#d3f36b"/>
+  <text x="116" y="132" fill="#10120f" font-family="Arial, sans-serif" font-size="42" font-weight="800" text-anchor="middle">d*</text>
+  <text x="70" y="240" fill="#f2f3ea" font-family="Arial, sans-serif" font-size="68" font-weight="750" letter-spacing="-2">Dwij Kansagara</text>
+  <text x="73" y="290" fill="#a9aea1" font-family="Courier New, monospace" font-size="21" font-weight="700" letter-spacing="2">WEB INTERFACES / LOCAL AI TOOLS / ROBOTICS</text>
+  <rect x="1178" width="22" height="360" fill="#d3f36b"/>
+</svg>
