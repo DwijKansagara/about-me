@@ -8,6 +8,8 @@ I am a student developer based in Rajkot, Gujarat. I build browser interfaces, e
 
 [Portfolio](https://dwij-portfolio.antideploy.com) · [Instagram](https://www.instagram.com/dwij.kansagara/) · [Email](mailto:kansagara.dwij@gmail.com)
 
+**[Read the full About Me document](https://about-me.antideploy.com)**
+
 ## Selected work
 
 | Project | What it explores | Source |
