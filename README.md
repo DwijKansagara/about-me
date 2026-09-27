@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/profile-banner.svg" alt="Dwij Kansagara, student developer in Rajkot building web interfaces, browser AI experiments and robotics" width="100%" />
+  <img src="assets/profile-banner.svg" alt="Dwij Kansagara, 10th-standard student developer in Rajkot building web interfaces, browser AI experiments and robotics" width="100%" />
 
   # About Dwij Kansagara
 
@@ -35,3 +35,4 @@ The application ID is stored in `.antideploy.json`; account credentials stay out
 - [Live site](https://about-me.antideploy.com)
 - [Portfolio](https://dwij-portfolio.antideploy.com)
 - [GitHub profile](https://github.com/DwijKansagara)
+
