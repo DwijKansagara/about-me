@@ -12,5 +12,8 @@
   <text x="116" y="132" fill="#10120f" font-family="Arial, sans-serif" font-size="42" font-weight="800" text-anchor="middle">d*</text>
   <text x="70" y="240" fill="#f2f3ea" font-family="Arial, sans-serif" font-size="68" font-weight="750" letter-spacing="-2">Dwij Kansagara</text>
   <text x="73" y="290" fill="#a9aea1" font-family="Courier New, monospace" font-size="21" font-weight="700" letter-spacing="2">WEB INTERFACES / LOCAL AI TOOLS / ROBOTICS</text>
+  <rect x="-190" y="337" width="190" height="3" fill="#d3f36b" opacity=".75">
+    <animate attributeName="x" values="-190;1200" dur="8s" repeatCount="indefinite"/>
+  </rect>
   <rect x="1178" width="22" height="360" fill="#d3f36b"/>
 </svg>
