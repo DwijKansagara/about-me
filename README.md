@@ -13,7 +13,8 @@
 - A responsive editorial layout with readable typography and measured motion.
 - Direct links to Portfolio, LUMINA AI, JARVIS and Avengers: Doomsday.
 - Clear personal details, technical interests and contact routes.
-- Privacy, terms and cookie pages written for the site's actual data practices.
+- A persistent anonymous visit counter and 20-step appreciation meter.
+- Privacy, terms, cookie and refund pages written for the site's actual data practices.
 - Keyboard-friendly navigation, semantic HTML, alt text and reduced-motion support.
 
 ## Run locally
