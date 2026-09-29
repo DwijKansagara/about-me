@@ -7,7 +7,7 @@
 
   **[Read the live document](https://about-me.antideploy.com)**
 
-  <img src="https://dwij-counts.antideploy.com/badge/about.svg" alt="About Me views and likes" width="214" />
+  <img src="https://dwij-portfolio.antideploy.com/badge/about.svg" alt="About Me views and likes" width="214" />
 </div>
 
 ## What is included
@@ -38,5 +38,6 @@ The application ID is stored in `.antideploy.json`; account credentials stay out
 - [Live site](https://about-me.antideploy.com)
 - [Portfolio](https://dwij-portfolio.antideploy.com)
 - [GitHub profile](https://github.com/DwijKansagara)
+
 
 
