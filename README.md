@@ -6,6 +6,8 @@
   A document-style introduction to my background, selected work, tools and current interests.
 
   **[Read the live document](https://about-me.antideploy.com)**
+
+  <img src="https://dwij-counts.antideploy.com/badge/about.svg" alt="About Me views and likes" width="214" />
 </div>
 
 ## What is included
