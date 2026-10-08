@@ -7,6 +7,8 @@
 
   **[Read the live document](https://about-me.antideploy.com)**
 
+![About Me document preview](docs/social-preview.png)
+
   <img src="https://dwij-signal.vercel.app/badge/about.svg" alt="About Me views and likes" width="214" />
 
   [![Security checks](https://github.com/DwijKansagara/about-me/actions/workflows/security.yml/badge.svg)](https://github.com/DwijKansagara/about-me/actions/workflows/security.yml)
