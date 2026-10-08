@@ -1,6 +1,6 @@
 # Security
 
-Report suspected vulnerabilities privately to **kansagara.dwij@gmail.com**.
+Report suspected vulnerabilities privately to **work.dwijkansagara@gmail.com**.
 
 This is a static, login-free document site. It has no passwords, JWTs, uploads, database client, payments, webhooks, forms, or server-side URL fetching. Static content is rendered without untrusted HTML. The only state-changing request is the shared appreciation control, whose server applies exact-origin validation, request-intent checks, parameterized SQL, durable rate limiting, restricted database privileges, and salted identifiers.
 
