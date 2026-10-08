@@ -8,6 +8,8 @@
   **[Read the live document](https://about-me.antideploy.com)**
 
   <img src="https://dwij-signal.vercel.app/badge/about.svg" alt="About Me views and likes" width="214" />
+
+  [![Security checks](https://github.com/DwijKansagara/about-me/actions/workflows/security.yml/badge.svg)](https://github.com/DwijKansagara/about-me/actions/workflows/security.yml)
 </div>
 
 ## What is included
@@ -38,6 +40,10 @@ The application ID is stored in `.antideploy.json`; account credentials stay out
 - [Live site](https://about-me.antideploy.com)
 - [Portfolio](https://dwij-portfolio.antideploy.app)
 - [GitHub profile](https://github.com/DwijKansagara)
+
+## Feedback and contributions
+
+Accessibility corrections, broken-link reports and precise content fixes are welcome through the [issue templates](https://github.com/DwijKansagara/about-me/issues/new/choose). See [CONTRIBUTING.md](CONTRIBUTING.md) before proposing a change.
 
 
 
