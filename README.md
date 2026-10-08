@@ -7,7 +7,7 @@
 
   **[Read the live document](https://about-me.antideploy.com)**
 
-  <img src="https://dwij-portfolio.antideploy.com/badge/about.svg" alt="About Me views and likes" width="214" />
+  <img src="https://dwij-signal.vercel.app/badge/about.svg" alt="About Me views and likes" width="214" />
 </div>
 
 ## What is included
@@ -15,7 +15,7 @@
 - A responsive editorial layout with readable typography and measured motion.
 - Direct links to Portfolio, LUMINA AI, JARVIS and Avengers: Doomsday.
 - Clear personal details, technical interests and contact routes.
-- A persistent anonymous visit counter and 20-step appreciation meter.
+- An aggregate view counter and a 20-step appreciation meter that remembers progress only after interaction.
 - Privacy, terms, cookie and refund pages written for the site's actual data practices.
 - Keyboard-friendly navigation, semantic HTML, alt text and reduced-motion support.
 
@@ -36,7 +36,7 @@ The application ID is stored in `.antideploy.json`; account credentials stay out
 ## Links
 
 - [Live site](https://about-me.antideploy.com)
-- [Portfolio](https://dwij-portfolio.antideploy.com)
+- [Portfolio](https://dwij-portfolio.antideploy.app)
 - [GitHub profile](https://github.com/DwijKansagara)
 
 
